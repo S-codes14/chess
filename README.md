@@ -1,5 +1,5 @@
 # chess-ai
-A chess engine by someone who doesn't know how to play chess.
+
 
 ## About
 chess-ai is a simple chess AI in JavaScript. 
@@ -15,7 +15,7 @@ The evaluation function uses [piece square tables](https://www.chessprogramming.
 A global sum is used to keep track of black's evaluation score after each move, which is used to display the 'advantage' bar. 
 
 ## How to Play?
-1. Head over to https://zeyu2001.github.io/chess-ai/.
+1. Head over to https://s-codes14.github.io/chess/.
 
 2. Play as white by dragging a piece to your desired location. The AI plays as black. The AI's minimax search depth (which is directly related to how well it will play) can be customised using the 'Search Depth (Black)' dropdown. Using a higher value will improve the AI's accuracy, but it will take longer to decide on the next move.
 
